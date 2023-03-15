@@ -1,0 +1,10 @@
+Serie de fibonacci
+Creando Modulos
+Crear un diccionario
+-Lectura de archivo txt readline()
+-Esccritura de archivos w 
+-append a 
+
+Excepcions
+POO
+Expresiones regulares 
